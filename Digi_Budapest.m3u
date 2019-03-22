@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTINF:-1,Animal Planet
+http://195.38.100.171:9000/play/animal
+#EXTINF:-1,CBS Reality
+http://195.38.100.171:9000/play/cbs
+#EXTINF:-1,Cinemax
+http://195.38.100.171:9000/play/cinemax
+#EXTINF:-1,Cinemax2
+http://195.38.100.171:9000/play/cinemax2
+#EXTINF:-1,Cool TV
+http://195.38.100.171:9000/play/cool
+#EXTINF:-1,DIGI Sport 1 HU
+http://195.38.100.171:9000/play/digisport1
+#EXTINF:-1,DIGI Sport 2 HU
+http://195.38.100.171:9000/play/digisport2
+#EXTINF:-1,DIGISport3_S3
+http://195.38.100.171:9000/play/digisport3
+#EXTINF:-1,Discovery Channel
+http://195.38.100.171:9000/play/a00k
+#EXTINF:-1,Discovery Science
+http://195.38.100.171:9000/play/discoveryscience
+#EXTINF:-1,Disney Channel
+http://195.38.100.171:9000/play/a02s
+#EXTINF:-1,Duna TV
+http://195.38.100.171:9000/play/duna
+#EXTINF:-1,Eurosport
+http://195.38.100.171:9000/play/eurosport
+#EXTINF:-1,Eurosport 2
+http://195.38.100.171:9000/play/a033
+#EXTINF:-1,Extreme Sports Channel
+http://195.38.100.171:9000/play/a02q
+#EXTINF:-1,FilmBox Extra HD
+http://195.38.100.171:9000/play/filmboxextrahd
+#EXTINF:-1,Filmbox Premium
+http://195.38.100.171:9000/play/filmboxpremium
+#EXTINF:-1,Galaxy4
+http://195.38.100.171:9000/play/galaxy4
+#EXTINF:-1,HBO 3 HU
+#EXTVLCOPT:audio-track=1
+http://195.38.100.171:9000/play/hbo3digi
+#EXTINF:-1,HBO2 hu cz ro
+http://195.38.100.171:9000/play/hbo2
+#EXTINF:-1,JimJam
+http://195.38.100.171:9000/play/jimjam
+#EXTINF:-1,M4 Sport
+http://195.38.100.171:9000/play/m4sport
+#EXTINF:-1,Music Channel
+http://195.38.100.171:9000/play/a02m
+#EXTINF:-1,Prime
+http://195.38.100.171:9000/play/prime
+#EXTINF:-1,RTL Klub HD
+http://195.38.100.171:9000/play/rtlklubhd
+#EXTINF:-1,STORY 4
+http://195.38.100.171:9000/play/a02w
+#EXTINF:-1,Sport5
+http://195.38.100.171:9000/play/sport5
+#EXTINF:-1,SuperTV2_S13
+http://195.38.100.171:9000/play/supertv2
+#EXTINF:-1,TLC
+http://195.38.100.171:9000/play/tlc
+#EXTINF:-1,TV2
+http://195.38.100.171:9000/play/tv2
+#EXTINF:-1,ducktv
+http://195.38.100.171:9000/play/duck
+#EXTINF:-1,Animal Planet HD
+http://195.38.100.171:2225/play/animalplanethd
+#EXTINF:-1,Comedy Central Family Hungary
+http://195.38.100.171:2225/play/comedycfamily
+#EXTINF:-1,Comedy Central Hungary
+http://195.38.100.171:2225/play/comedyc
+#EXTINF:-1,Cool TV
+http://195.38.100.171:2225/play/a018
+#EXTINF:-1,DIGI Sport 3 HU
+http://195.38.100.171:2225/play/a00z
+#EXTINF:-1,DIGI World HU
+http://195.38.100.171:2225/play/a011
+#EXTINF:-1,DIGISport1_S3
+http://195.38.100.171:2225/play/digisport1
+#EXTINF:-1,DIGISport2_S3
+http://195.38.100.171:2225/play/digisport2
+#EXTINF:-1,DOQ
+http://195.38.100.171:2225/play/doq
+#EXTINF:-1,Film4_S3
+http://195.38.100.171:2225/play/film4
+#EXTINF:-1,FilmNow_S3
+http://195.38.100.171:2225/play/filmnow
+#EXTINF:-1,Fishing and Hunting
+http://195.38.100.171:2225/play/fish
+#EXTINF:-1,Galaxy4
+http://195.38.100.171:2225/play/a01a
+#EXTINF:-1,HBO
+http://195.38.100.171:2225/play/hbo
+#EXTINF:-1,HBO HD
+http://195.38.100.171:2225/play/hbohd
+#EXTINF:-1,Izaura TV
+http://195.38.100.171:2225/play/iza
+#EXTINF:-1,M3 Anno
+http://195.38.100.171:2225/play/m3
+#EXTINF:-1,MTV Dance
+http://195.38.100.171:2225/play/mtvdance
+#EXTINF:-1,MTV Europe
+http://195.38.100.171:2225/play/mtveu
+#EXTINF:-1,MTV Hits
+http://195.38.100.171:2225/play/mtvhits
+#EXTINF:-1,MTV Music
+http://195.38.100.171:2225/play/mtvm
+#EXTINF:-1,MTV_Rocks
+http://195.38.100.171:2225/play/mtvrocks
+#EXTINF:-1,Magyar Slager TV
+http://195.38.100.171:2225/play/a01d
+#EXTINF:-1,Mezzo
+http://195.38.100.171:2225/play/a01c
+#EXTINF:-1,Muzsika TV
+http://195.38.100.171:2225/play/muzsika
+#EXTINF:-1,Nat Geo Wild HU
+http://195.38.100.171:2225/play/a01e
+#EXTINF:-1,Paramount Channel Hungary
+http://195.38.100.171:2225/play/pchh
+#EXTINF:-1,RTL GOLD
+http://195.38.100.171:2225/play/gold
+#EXTINF:-1,RTL Klub
+http://195.38.100.171:2225/play/a016
+#EXTINF:-1,RTL+
+http://195.38.100.171:2225/play/rtlplus
+#EXTINF:-1,RTL2
+http://195.38.100.171:2225/play/rtl2
+#EXTINF:-1,STORY4
+http://195.38.100.171:2225/play/a017
+#EXTINF:-1,Sorozat+
+http://195.38.100.171:2225/play/sor
+#EXTINF:-1,Spektrum
+http://195.38.100.171:2225/play/spektrum
+#EXTINF:-1,Sport1
+http://195.38.100.171:2225/play/sport1
+#EXTINF:-1,TV Paprika
+http://195.38.100.171:2225/play/paprika
+#EXTINF:-1,Travel Channel HD
+http://195.38.100.171:2225/play/travelchanhd
+#EXTINF:-1,VH1
+http://195.38.100.171:2225/play/vh1
+#EXTINF:-1,VH1 Classic
+http://195.38.100.171:2225/play/vh1c
+#EXTINF:-1,Viasat Nature
+#EXTVLCOPT:audio-track=1
+http://195.38.100.171:2225/play/a019
+#EXTINF:-1,m4 HD
+http://195.38.100.171:2225/play/m4hd

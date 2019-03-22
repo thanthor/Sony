@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:-1,AMC
+http://134.255.49.97:9090/play/a020
+#EXTINF:-1,AMC_C6
+http://134.255.49.97:9090/play/amc
+#EXTINF:-1,ATV Spirit
+http://134.255.49.97:9090/play/a01v
+#EXTINF:-1,ATV_C7
+http://134.255.49.97:9090/play/atv
+#EXTINF:-1,Boomerang_C0
+http://134.255.49.97:9090/play/boom
+#EXTINF:-1,Cartoon_C0
+http://134.255.49.97:9090/play/cartoon
+#EXTINF:-1,Cinemax2_HD_C3
+http://134.255.49.97:9090/play/cinemax2hd
+#EXTINF:-1,Cinemax_HD_C3
+http://134.255.49.97:9090/play/cinemaxhd
+#EXTINF:-1,Comedy Central
+http://134.255.49.97:9090/play/a021
+#EXTINF:-1,Comedy_C6
+http://134.255.49.97:9090/play/comcent
+#EXTINF:-1,Cool
+http://134.255.49.97:9090/play/a01z
+#EXTINF:-1,Cool_C6
+http://134.255.49.97:9090/play/cool
+#EXTINF:-1,Digi Sport 2 HD
+http://134.255.49.97:9090/play/digisport2hd
+#EXTINF:-1,Digi World
+http://134.255.49.97:9090/play/digiworld
+#EXTINF:-1,Discovery Channel HD
+http://134.255.49.97:9090/play/a01x
+#EXTINF:-1,Discovery_HD_C6
+http://134.255.49.97:9090/play/dischd
+#EXTINF:-1,Disney Channel
+http://134.255.49.97:9090/play/a01w
+#EXTINF:-1,Disney_C6
+http://134.255.49.97:9090/play/disney
+#EXTINF:-1,DunaWorld_C2
+http://134.255.49.97:9090/play/dunaworld
+#EXTINF:-1,Echo TV
+http://134.255.49.97:9090/play/a022
+#EXTINF:-1,Echo_C6
+http://134.255.49.97:9090/play/echo
+#EXTINF:-1,FEM3
+http://134.255.49.97:9090/play/a01q
+#EXTINF:-1,Film Cafe
+http://134.255.49.97:9090/play/a01r
+#EXTINF:-1,Film4_C0
+http://134.255.49.97:9090/play/film4
+#EXTINF:-1,FilmBox_C7
+http://134.255.49.97:9090/play/filmbox
+#EXTINF:-1,FilmCafe_C5
+http://134.255.49.97:9090/play/filmcafe
+#EXTINF:-1,Film_Now_C0
+http://134.255.49.97:9090/play/filmnow_c
+#EXTINF:-1,Fishing_C4
+http://134.255.49.97:9090/play/fish
+#EXTINF:-1,Food Network
+http://134.255.49.97:9090/play/a023
+#EXTINF:-1,Galaxy4_C0
+http://134.255.49.97:9090/play/galaxy4
+#EXTINF:-1,HBO2_HD_C3
+http://134.255.49.97:9090/play/hbo2hd
+#EXTINF:-1,HBO3_HD_C3
+http://134.255.49.97:9090/play/hbo3hd
+#EXTINF:-1,HBO_HD_C3
+http://134.255.49.97:9090/play/hbohd
+#EXTINF:-1,HirTV_C2
+http://134.255.49.97:9090/play/hirtv
+#EXTINF:-1,Izaura_C7
+http://134.255.49.97:9090/play/izaura
+#EXTINF:-1,JimJam_C0
+http://134.255.49.97:9090/play/jimjam
+#EXTINF:-1,KiWi_C7
+http://134.255.49.97:9090/play/kiwi
+#EXTINF:-1,MTV Hits C4
+http://134.255.49.97:9090/play/mtvhits
+#EXTINF:-1,MTV Rocks C4
+http://134.255.49.97:9090/play/mtvrocks
+#EXTINF:-1,Mezzo_HD_C4
+http://134.255.49.97:9090/play/mezzohd
+#EXTINF:-1,Mozi+HD_C1
+http://134.255.49.97:9090/play/moziplushd
+#EXTINF:-1,Muzsika TV
+http://134.255.49.97:9090/play/a01y
+#EXTINF:-1,Muzsika_C6
+http://134.255.49.97:9090/play/muzsika
+#EXTINF:-1,Nickelodeon
+http://134.255.49.97:9090/play/a01m
+#EXTINF:-1,Paprika_HD_C1
+http://134.255.49.97:9090/play/tvpaprikahd
+#EXTINF:-1,RTL II
+http://134.255.49.97:9090/play/a01u
+#EXTINF:-1,RTL+
+http://134.255.49.97:9090/play/a01s
+#EXTINF:-1,RTL+C5
+http://134.255.49.97:9090/play/rtlplus
+#EXTINF:-1,RTLII_C5
+http://134.255.49.97:9090/play/rtl2
+#EXTINF:-1,RTL_HD_C4
+http://134.255.49.97:9090/play/rtlhd
+#EXTINF:-1,RTL_Klub_C2
+http://134.255.49.97:9090/play/rtlklub
+#EXTINF:-1,Slager_C4
+http://134.255.49.97:9090/play/slager
+#EXTINF:-1,Spiler1_C7
+http://134.255.49.97:9090/play/spiler1hd
+#EXTINF:-1,Spiler2
+http://134.255.49.97:9090/play/spiler2
+#EXTINF:-1,TLC_C1
+http://134.255.49.97:9090/play/tlc
+#EXTINF:-1,TV2HD
+http://134.255.49.97:9090/play/tv2hd
+#EXTINF:-1,TV2_HD_PR_c2
+http://134.255.49.97:9090/play/rc2hdpr
+#EXTINF:-1,TV4_C5
+http://134.255.49.97:9090/play/tv4
+#EXTINF:-1,VH1Classic_C4
+http://134.255.49.97:9090/play/vh1class
+#EXTINF:-1,Zenebutik
+http://134.255.49.97:9090/play/a01n

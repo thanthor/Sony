@@ -1,0 +1,531 @@
+#EXTM3U
+
+#EXTINF:-1,=====Vidanet channelid======
+http://79.121.4.57:4567/stream/channelid/880155981
+
+#EXTINF:-1,AMC
+http://79.121.4.57:4567/stream/channelid/935151011
+
+#EXTINF:-1,ATV
+http://79.121.4.57:4567/stream/channelid/610374995
+
+#EXTINF:-1,Auto Motor Sport
+http://79.121.4.57:4567/stream/channelid/1663047175
+
+#EXTINF:-1,Discovery Channel
+http://79.121.4.57:4567/stream/channelid/552618302
+
+#EXTINF:-1,Eurosport
+http://79.121.4.57:4567/stream/channelid/560918819
+
+#EXTINF:-1,Fem3 HU -NW
+http://79.121.4.57:4567/stream/channelid/514431464
+
+#EXTINF:-1,m1
+http://79.121.4.57:4567/stream/channelid/880155981
+
+#EXTINF:-1,M1 HD -NW
+http://79.121.4.57:4567/stream/channelid/1453091184
+
+#EXTINF:-1,m2 / Petofi
+http://79.121.4.57:4567/stream/channelid/332063853
+
+#EXTINF:-1,m2 HD -NW
+http://79.121.4.57:4567/stream/channelid/1627196766
+
+#EXTINF:-1,=====Vidanet channelnumber======
+http://79.121.4.57:4567/stream/channelnumber/1
+
+#EXTINF:-1,M1
+http://79.121.4.57:4567/stream/channelnumber/1
+
+#EXTINF:-1,M1 HD
+http://79.121.4.57:4567/stream/channelnumber/2
+
+#EXTINF:-1,M2 Petőfi
+http://79.121.4.57:4567/stream/channelnumber/3
+
+#EXTINF:-1,M2 Petőfi HD
+http://79.121.4.57:4567/stream/channelnumber/4
+
+#EXTINF:-1,M4 Sport
+http://79.121.4.57:4567/stream/channelnumber/5
+
+#EXTINF:-1,M4 Sport HD
+http://79.121.4.57:4567/stream/channelnumber/6
+
+#EXTINF:-1,M5
+http://79.121.4.57:4567/stream/channelnumber/7
+
+#EXTINF:-1,M5 HD 
+http://79.121.4.57:4567/stream/channelnumber/8
+
+#EXTINF:-1,Duna 
+http://79.121.4.57:4567/stream/channelnumber/9
+
+#EXTINF:-1,Duna HD
+http://79.121.4.57:4567/stream/channelnumber/10
+
+#EXTINF:-1,Duna World
+http://79.121.4.57:4567/stream/channelnumber/11
+
+#EXTINF:-1,M3
+http://79.121.4.57:4567/stream/channelnumber/12
+
+#EXTINF:-1,Comedy Central
+http://79.121.4.57:4567/stream/channelnumber/13
+
+#EXTINF:-1,Comedy Central Family
+http://79.121.4.57:4567/stream/channelnumber/14
+
+#EXTINF:-1,Paramount Channel
+http://79.121.4.57:4567/stream/channelnumber/15
+
+#EXTINF:-1,RTL Klub HD
+http://79.121.4.57:4567/stream/channelnumber/16
+
+#EXTINF:-1,TV2 HD
+http://79.121.4.57:4567/stream/channelnumber/17
+
+#EXTINF:-1,RTL Spike
+http://79.121.4.57:4567/stream/channelnumber/18
+
+#EXTINF:-1,RTL II
+http://79.121.4.57:4567/stream/channelnumber/19
+
+#EXTINF:-1,RTL+
+http://79.121.4.57:4567/stream/channelnumber/20
+
+#EXTINF:-1,Sorozat+
+http://79.121.4.57:4567/stream/channelnumber/21
+
+#EXTINF:-1,Super TV2
+http://79.121.4.57:4567/stream/channelnumber/22
+
+#EXTINF:-1,Prime
+http://79.121.4.57:4567/stream/channelnumber/23
+
+#EXTINF:-1,Cool
+http://79.121.4.57:4567/stream/channelnumber/24
+
+#EXTINF:-1,TV/4
+http://79.121.4.57:4567/stream/channelnumber/25
+
+#EXTINF:-1,Story/4
+http://79.121.4.57:4567/stream/channelnumber/26
+
+#EXTINF:-1,Viasat3
+http://79.121.4.57:4567/stream/channelnumber/27
+
+#EXTINF:-1,Viasat6
+http://79.121.4.57:4567/stream/channelnumber/28
+
+#EXTINF:-1,Mozi+
+http://79.121.4.57:4567/stream/channelnumber/29
+
+#EXTINF:-1,Atv
+http://79.121.4.57:4567/stream/channelnumber/30
+
+#EXTINF:-1,Hír Tv
+http://79.121.4.57:4567/stream/channelnumber/31
+
+#EXTINF:-1,Echo Tv
+http://79.121.4.57:4567/stream/channelnumber/32
+
+#EXTINF:-1,Sláger Tv
+http://79.121.4.57:4567/stream/channelnumber/33
+
+#EXTINF:-1,Muzsika Tv
+http://79.121.4.57:4567/stream/channelnumber/34
+
+#EXTINF:-1,CBS Reality
+http://79.121.4.57:4567/stream/channelnumber/35
+
+#EXTINF:-1,Spektrum Home
+http://79.121.4.57:4567/stream/channelnumber/36
+
+#EXTINF:-1,Spektrum
+http://79.121.4.57:4567/stream/channelnumber/37
+
+#EXTINF:-1,TV Paprika
+http://79.121.4.57:4567/stream/channelnumber/38
+
+#EXTINF:-1,Fine Living
+http://79.121.4.57:4567/stream/channelnumber/39
+
+#EXTINF:-1,Food Network
+http://79.121.4.57:4567/stream/channelnumber/40
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/41
+
+
+#EXTINF:-1,Filmbox Extra HD
+http://79.121.4.57:4567/stream/channelnumber/42
+
+#EXTINF:-1,Filmbox
+http://79.121.4.57:4567/stream/channelnumber/43
+
+#EXTINF:-1,Jocky Tv
+http://79.121.4.57:4567/stream/channelnumber/44
+
+#EXTINF:-1,RTL Gold
+http://79.121.4.57:4567/stream/channelnumber/45
+
+#EXTINF:-1,Moziverzum
+http://79.121.4.57:4567/stream/channelnumber/46
+
+#EXTINF:-1,Film/4
+http://79.121.4.57:4567/stream/channelnumber/47
+
+#EXTINF:-1,AXN
+http://79.121.4.57:4567/stream/channelnumber/48
+
+#EXTINF:-1,SONY
+http://79.121.4.57:4567/stream/channelnumber/49
+
+#EXTINF:-1,SONY MAX
+http://79.121.4.57:4567/stream/channelnumber/50
+
+#EXTINF:-1,AMC
+http://79.121.4.57:4567/stream/channelnumber/51
+
+#EXTINF:-1,Filmcafe
+http://79.121.4.57:4567/stream/channelnumber/52
+
+#EXTINF:-1,Filmmania
+http://79.121.4.57:4567/stream/channelnumber/53
+
+#EXTINF:-1,Film+
+http://79.121.4.57:4567/stream/channelnumber/54
+
+#EXTINF:-1,Filmbox Premium
+http://79.121.4.57:4567/stream/channelnumber/55
+
+#EXTINF:-1,Filmbox Plus
+http://79.121.4.57:4567/stream/channelnumber/56
+
+#EXTINF:-1,Filmbox Family
+http://79.121.4.57:4567/stream/channelnumber/57
+
+#EXTINF:-1,HBO
+http://79.121.4.57:4567/stream/channelnumber/58
+
+#EXTINF:-1,HBO2
+http://79.121.4.57:4567/stream/channelnumber/59
+
+#EXTINF:-1,HBO3
+http://79.121.4.57:4567/stream/channelnumber/60
+
+#EXTINF:-1,Cinemax
+http://79.121.4.57:4567/stream/channelnumber/61
+
+#EXTINF:-1,Cinemax2
+http://79.121.4.57:4567/stream/channelnumber/62
+
+#EXTINF:-1,Discovery Channel
+http://79.121.4.57:4567/stream/channelnumber/63
+
+#EXTINF:-1,Discovery Science
+http://79.121.4.57:4567/stream/channelnumber/64
+
+#EXTINF:-1,TLC
+http://79.121.4.57:4567/stream/channelnumber/65
+
+#EXTINF:-1,DTX
+http://79.121.4.57:4567/stream/channelnumber/66
+
+#EXTINF:-1,Investigation Discovery
+http://79.121.4.57:4567/stream/channelnumber/67
+
+#EXTINF:-1,National Geographic
+http://79.121.4.57:4567/stream/channelnumber/68
+
+#EXTINF:-1,National Geographic Wild
+http://79.121.4.57:4567/stream/channelnumber/69
+
+#EXTINF:-1,Animal Planet
+http://79.121.4.57:4567/stream/channelnumber/70
+
+#EXTINF:-1,Travel Channel
+http://79.121.4.57:4567/stream/channelnumber/71
+
+#EXTINF:-1,Viasat Explorer
+http://79.121.4.57:4567/stream/channelnumber/72
+
+#EXTINF:-1,Viasat History
+http://79.121.4.57:4567/stream/channelnumber/73
+
+#EXTINF:-1,History
+http://79.121.4.57:4567/stream/channelnumber/74
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/75
+
+#EXTINF:-1,DOQ
+http://79.121.4.57:4567/stream/channelnumber/76
+
+#EXTINF:-1,LiChi Tv
+http://79.121.4.57:4567/stream/channelnumber/77
+
+#EXTINF:-1,Izaura Tv
+http://79.121.4.57:4567/stream/channelnumber/78
+
+#EXTINF:-1,FEM3
+http://79.121.4.57:4567/stream/channelnumber/79
+
+#EXTINF:-1,Sport1
+http://79.121.4.57:4567/stream/channelnumber/80
+
+#EXTINF:-1,Sport2
+http://79.121.4.57:4567/stream/channelnumber/81
+
+#EXTINF:-1,Spiler1
+http://79.121.4.57:4567/stream/channelnumber/82
+
+#EXTINF:-1,Spiler2
+http://79.121.4.57:4567/stream/channelnumber/83
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/84
+
+#EXTINF:-1,Eurosport1
+http://79.121.4.57:4567/stream/channelnumber/85
+
+#EXTINF:-1,Eurosport2
+http://79.121.4.57:4567/stream/channelnumber/86
+
+#EXTINF:-1,Extreme Sport
+http://79.121.4.57:4567/stream/channelnumber/87
+
+#EXTINF:-1,Auto Motor Sport Channel
+http://79.121.4.57:4567/stream/channelnumber/88
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/89
+
+#EXTINF:-1,Fishing and Haunting
+http://79.121.4.57:4567/stream/channelnumber/90
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/91
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/92
+
+#EXTINF:-1,Fight Box HD
+http://79.121.4.57:4567/stream/channelnumber/93
+
+#EXTINF:-1,Docu Box HD
+http://79.121.4.57:4567/stream/channelnumber/94
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/95
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/96
+
+#EXTINF:-1,Humor
+http://79.121.4.57:4567/stream/channelnumber/97
+
+#EXTINF:-1,Galaxy/4
+http://79.121.4.57:4567/stream/channelnumber/98
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/99
+
+#EXTINF:-1,Disney Channel
+http://79.121.4.57:4567/stream/channelnumber/100
+
+#EXTINF:-1,JimJam
+http://79.121.4.57:4567/stream/channelnumber/101
+
+#EXTINF:-1,Nickelodeon
+http://79.121.4.57:4567/stream/channelnumber/102
+
+#EXTINF:-1,Minimax
+http://79.121.4.57:4567/stream/channelnumber/103
+
+#EXTINF:-1,Duck Tv
+http://79.121.4.57:4567/stream/channelnumber/104
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/105
+
+#EXTINF:-1,Boomerang
+http://79.121.4.57:4567/stream/channelnumber/106
+
+#EXTINF:-1,Megamax
+http://79.121.4.57:4567/stream/channelnumber/107
+
+#EXTINF:-1,NickJr.
+http://79.121.4.57:4567/stream/channelnumber/108
+
+#EXTINF:-1,Kiwi Tv
+http://79.121.4.57:4567/stream/channelnumber/109
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/110
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/111
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/112
+
+#EXTINF:-1,Discovery Channel HD
+http://79.121.4.57:4567/stream/channelnumber/113
+
+#EXTINF:-1,Discovery Showcase
+http://79.121.4.57:4567/stream/channelnumber/114
+
+#EXTINF:-1,Animal Planet HD
+http://79.121.4.57:4567/stream/channelnumber/115
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/116
+
+#EXTINF:-1,Travel Channel HD
+http://79.121.4.57:4567/stream/channelnumber/117
+
+#EXTINF:-1,History HD
+http://79.121.4.57:4567/stream/channelnumber/118
+
+#EXTINF:-1,National Geographic HD
+http://79.121.4.57:4567/stream/channelnumber/119
+
+#EXTINF:-1,National Geographic Wild HD
+http://79.121.4.57:4567/stream/channelnumber/120
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/121
+
+#EXTINF:-1,Eurosport1 HD
+http://79.121.4.57:4567/stream/channelnumber/122
+
+#EXTINF:-1,Eurosport2 HD
+http://79.121.4.57:4567/stream/channelnumber/123
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/124
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/125
+
+#EXTINF:-1,HBO HD
+http://79.121.4.57:4567/stream/channelnumber/126
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/127
+
+#EXTINF:-1,Zenebutik
+http://79.121.4.57:4567/stream/channelnumber/128
+
+#EXTINF:-1,Mooz Dance
+http://79.121.4.57:4567/stream/channelnumber/129
+
+#EXTINF:-1,MTV Co.Hu
+http://79.121.4.57:4567/stream/channelnumber/130
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/131
+
+#EXTINF:-1,MTV
+http://79.121.4.57:4567/stream/channelnumber/132
+
+#EXTINF:-1,MTV Rocks
+http://79.121.4.57:4567/stream/channelnumber/133
+
+#EXTINF:-1,MTV Hits
+http://79.121.4.57:4567/stream/channelnumber/134
+
+#EXTINF:-1,MTV Dance
+http://79.121.4.57:4567/stream/channelnumber/135
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/136
+
+#EXTINF:-1,VH1
+http://79.121.4.57:4567/stream/channelnumber/137
+
+#EXTINF:-1,VH1 Classic
+http://79.121.4.57:4567/stream/channelnumber/138
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/139
+
+#EXTINF:-1,1Music Channel
+http://79.121.4.57:4567/stream/channelnumber/140
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/141
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/142
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/143
+
+#EXTINF:-1,Fashion Tv
+http://79.121.4.57:4567/stream/channelnumber/144
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/145
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/146
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/147
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/148
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/149
+
+#EXTINF:-1,CNN
+http://79.121.4.57:4567/stream/channelnumber/150
+
+#EXTINF:-1,Sky News
+http://79.121.4.57:4567/stream/channelnumber/151
+
+#EXTINF:-1,CNBC
+http://79.121.4.57:4567/stream/channelnumber/152
+
+#EXTINF:-1,Bloomberg
+http://79.121.4.57:4567/stream/channelnumber/153
+
+#EXTINF:-1,AlJazeera
+http://79.121.4.57:4567/stream/channelnumber/154
+
+#EXTINF:-1,NA
+http://79.121.4.57:4567/stream/channelnumber/155
+
+#EXTINF:-1,CGTN
+http://79.121.4.57:4567/stream/channelnumber/162
+
+#EXTINF:-1,Speranta Tv
+http://79.121.4.57:4567/stream/channelnumber/283
+
+#EXTINF:-1,U Tv
+http://79.121.4.57:4567/stream/channelnumber/290
+
+#EXTINF:-1,Ctv
+http://79.121.4.57:4567/stream/channelnumber/299
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
